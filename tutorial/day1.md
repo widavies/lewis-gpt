@@ -258,3 +258,7 @@ And.... it's all gibberish! That's okay though, we haven't trained the model yet
 
 ## Appendix
 - If you're looking for a really fun channel on AI - check out [Code Bullet](https://www.youtube.com/@CodeBullet)
+- Some other great programming channels to watch:
+  - https://www.youtube.com/@ThePrimeTimeagen
+  - https://www.youtube.com/@t3dotgg
+  - https://www.youtube.com/@SebastianLague
